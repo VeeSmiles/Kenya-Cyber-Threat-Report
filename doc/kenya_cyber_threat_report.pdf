@@ -1,0 +1,20 @@
+# Kenya Cyber Threat Landscape 2024  
+## Key Findings  
+1. **Mobile Fraud Dominance**  
+   - 42% of attacks target mobile money users (CAK).  
+   - Common tactic: Fake "M-Pesa withdrawal" SMS with malicious links.  
+
+2. **Ransomware Targets SMEs**  
+   - Healthcare and logistics sectors most affected (Serianu).  
+   - Average ransom demand: KES 2.3M.  
+
+3. **Regulatory Countermeasures**  
+   - CAK's *"Usalama Barabarani"* awareness campaign.  
+   - Data Protection Act (2022) penalties for breach negligence.  
+
+## Mitigation Tips  
+- **For Users**: Enable M-Pesa 2FA, verify SMS sender IDs.  
+- **For SMEs**: Regular backups, employee phishing training.  
+- **For Regulators**: Expand public-private threat intelligence sharing.  
+
+**Sources**: [CAK Report 2023] | [Serianu 2023] | [KU Cybersecurity Alerts]  
